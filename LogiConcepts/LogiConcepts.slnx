@@ -1,1 +1,17 @@
-<Solution />
+<Solution>
+  <Folder Name="/01/">
+    <Project Path="IsNumberOddOrNot/IsNumberOddOrNot.csproj" Id="fb714952-3858-469b-a33c-55662953b978" />
+  </Folder>
+  <Folder Name="/02/">
+    <Project Path="LargestNumber/LargestNumber.csproj" Id="6791ff49-76de-4a3b-a200-f0e3203533c9" />
+  </Folder>
+  <Folder Name="/03/">
+    <Project Path="OrderingOfThereeNumbers/OrderingOfThereeNumbers.csproj" Id="9d740caa-c88c-4a83-b29f-495e66c78023" />
+  </Folder>
+  <Folder Name="/04/">
+    <Project Path="NumberIsMultipleOfAnother/NumberIsMultipleOfAnother.csproj" Id="86d37ca6-aebe-4589-ace5-1337ee59598c" />
+  </Folder>
+  <Folder Name="/05/">
+    <Project Path="IeapYear/IeapYear.csproj" Id="09d1299e-d087-42c9-99d4-2bbce2825cd0" />
+  </Folder>
+</Solution>
